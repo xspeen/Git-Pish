@@ -1,0 +1,26 @@
+# Logs
+logs/
+*.log
+*.json
+*.db
+
+# Output
+output/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Sensitive
+*.key
+*.pem
+config.py
